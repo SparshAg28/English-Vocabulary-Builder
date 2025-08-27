@@ -1,1 +1,4 @@
 Library needed: nltk
+Project setup:
+1. Install requirments
+2. Run Code
