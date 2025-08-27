@@ -1,5 +1,4 @@
 '''
-Computer Science: Python Project
 Made on: December 2024
 English Vocabulary Builder
 Author: Sparsh Agarwal
@@ -398,4 +397,5 @@ def clearall():
 
 print("\t\t\t\t\t Welcome to the Vocabulary Learner by Sparsh Agarwal")    
 Start_User_Interface()
+
 
